@@ -1,8 +1,0 @@
-2026-10-22 09:10:00 username=alex ip=192.168.1.10 status=SUCCESS
-2026-10-22 09:12:00 username=sam ip=203.0.113.25 status=FAIL
-2026-10-22 09:13:00 username=sam ip=203.0.113.25 status=FAIL
-2026-10-22 09:14:00 username=alex ip=192.168.1.10 status=SUCCESS
-2026-10-22 09:15:00 username=guest ip=203.0.113.25 status=FAIL
-2026-10-22 09:16:00 username=guest ip=198.51.100.7 status=FAIL
-2026-10-22 09:17:00 username=guest ip=198.51.100.7 status=SUCCESS
-malformed sample line for testing
